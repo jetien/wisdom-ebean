@@ -31,7 +31,7 @@
         <dependency>
             <groupId>org.wisdom-framework</groupId>
             <artifactId>wisdom-maven-plugin</artifactId>
-            <version>${project.version}</version>
+            <version>0.6.1</version>
         </dependency>
 
         <dependency>
